@@ -10,8 +10,8 @@ These are data collected from the accelerometers from the Samsung Galaxy S smart
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 This repository contains:
-* run_analysis.R - an R script detailing the steps to create the tidy data set
-* code_book.txt - the code book for run_analysis.R
+* run_analysis.R - an R script detailing the steps to create the tidy data set, summary
+* code_book.txt - the code book for the summary data frame in run_analysis.R
 
 The R script assumes that the data set has been downloaded into your working directory. From there, it takes the following steps to create the tidy data set:
 * Sets the working directory to the UCI HAR Dataset folder
