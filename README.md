@@ -24,3 +24,5 @@ The R script assumes that the data set has been downloaded into your working dir
 * Finds only the mean and standard deviation columns and selects them
 * Updates the activities with descriptive activity names
 * Creates the summary data set as requested
+
+The final data set is the data frame 'summary'.
